@@ -9,5 +9,5 @@ grana_que_vc_tem = 1000.50 # bool
 maior_de_idade = True
 
 
-print("ola",nome , ultimo_nome, "idade","19" ,altura, )
+print("ola",nome , ultimo_nome, "idade","19" ,)
 
