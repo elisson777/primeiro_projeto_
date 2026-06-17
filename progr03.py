@@ -18,3 +18,5 @@ print(f"a multiplicacao de {num1} e {num2} e igual a ={multiplicacao}")
 print(f"a divisao de {num1} e {num2} e igual a ={divisao}")
 print(f"a resto_divisao de {num1} e {num2} e igual a ={resto_divisao}")
 print(f"a potenciacao de {num1} e  {num2} e igual e {potenciacao}")
+
+
