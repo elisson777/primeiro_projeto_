@@ -13,3 +13,4 @@ for i in range(7):
 
 print(f"\nQuantidade de maiores de idade: {maiores}")
 print(f"Quantidade de menores de idade: {menores}")
+
